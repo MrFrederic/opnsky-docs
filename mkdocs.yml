@@ -38,7 +38,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
-repo_url: https://github.com/mrfrederic/git-docs-test
+repo_url: https://github.com/mrfrederic/opnsky-docs
 edit_uri: blob/main/docs/
 
 plugins:
