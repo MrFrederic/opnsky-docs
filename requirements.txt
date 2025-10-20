@@ -1,0 +1,6 @@
+mkdocs
+mkdocs-material
+neoteroi-mkdocs
+mkdocs-git-revision-date-localized-plugin
+pymdown-extensions
+mkdocs-awesome-pages-plugin
